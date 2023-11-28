@@ -1,9 +1,4 @@
 # shopping-behavior
-
-Replace all template text `[]` with your own words. Be sure that there is no template text in your `README.md` file before pushing.
-
-[A quick summary of this project]
-
+Shopping Data T-Lab
 ## Observations 
-
-[A short write-up of the workflow this project followed, your observations on the visualizations, and interpretations of analyses. Include challenges faced and possible next actions]
+As a junior data analyst at FlashFash, a rapidly expanding online shopping company based in Bengaluru, India, my assignement involves delving into the shopping behavior of American consumers. The primary goal is to gain insights into the American market by analyzing a sample dataset. My responsibilities include deriving aggregate descriptive statistics, creating visualizations, and examining patterns in American consumers' behavior. Specifically, the focus is on uncovering seasonal shopping trends, identifying demographics that make the most purchases, and formulating effective market outreach strategies to optimize sales.
